@@ -20,7 +20,7 @@ main {
   width: 335px;
   height: 430px;
   position: relative;
-} 
+}
 
 .pinturas .pintura .info {
   position: absolute;
@@ -38,9 +38,3 @@ main {
   font-size: 17px;
   font-weight: 300;
 }
-
-
-
-
-
-
